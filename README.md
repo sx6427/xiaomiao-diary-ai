@@ -32,5 +32,5 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/你的用户名/xiaomiao-diary-ai.git
+git clone https://github.com/sx6427/xiaomiao-diary-ai.git
 cd xiaomiao-diary-ai
