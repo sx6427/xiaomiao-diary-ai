@@ -1,0 +1,19 @@
+# 环境变量
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Chroma本地向量库
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
+
+# 密钥
+*.key
+*.pem
